@@ -21,8 +21,6 @@ iface eth0 inet static
 
 address 10.0.0.5
 netmask 255.255.255.0
-address 10.0.0.5
-netmask 255.255.255.0
 
 iface eth0 inet static
 address 10.0.0.6
